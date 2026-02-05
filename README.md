@@ -1,11 +1,11 @@
 # Qaima Sylvester - Personal Profile
 
-Hello! My name is Qaima Sylvester. I"m learning software engineering because I want to build apps that solve real-worl problems.
+Hello! My name is Qaima Sylvester. I'm learning software engineering because I want to build apps that solve real-worl problems.
 
-## Learing Goals
-- Understandin Git & Github fundamentals
+## Learning Goals
+- Understanding Git & Github fundamentals
 - Learn Python and Django
-- Build and deploy a real-world project
+- Build and deploy a real-world projects
 
 ## Favorite Tech Tools
 - VS Code
